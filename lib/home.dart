@@ -59,9 +59,9 @@ class _HomeState extends State<Home> {
                       ],
                     ),
                     SizedBox(height: 30),
-                    Text("Scarlett Johansson", style: TextStyle(fontSize: 19, fontWeight: FontWeight.bold)),
+                    Text("Jane Doe", style: TextStyle(fontSize: 19, fontWeight: FontWeight.bold)),
                     SizedBox(height: 15),
-                    Text("Hey, Scarlett we allow you to handle your electronics from in or outside your house."
+                    Text("Hey, Jane we allow you to handle your electronics from in or outside your house."
                         " We recommend you to please read the instructions carefully and enjoy the luxury.", style: TextStyle(color: Colors.grey),),
                     SizedBox(height: 30),
                     Text("Rooms", style: TextStyle(fontSize: 19, fontWeight: FontWeight.bold)),
