@@ -122,7 +122,7 @@ class _MainWidgetState extends State<MainWidget> with TickerProviderStateMixin {
                 Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: <Widget>[
-                    new Text('Scarlett Johansson', style: new TextStyle(fontSize: 17, color: Colors.white)),
+                    new Text('Jane Doe', style: new TextStyle(fontSize: 17, color: Colors.white)),
                     new SizedBox(height: 2),
                     new Text('Actress', style: new TextStyle(fontSize: 15, color: Colors.grey)),
                   ],
